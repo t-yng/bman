@@ -3,6 +3,8 @@
 ## Description
 show manual page for command such as "ls" on the blowser.
 
+![bman_usage.gif](https://github.com/t-yng/bman/blob/images/images/bman_usge.gif)
+
 ## Installation
 Please exec `install.sh`  
 Symbolic link will be created at `/usr/local/bin`
