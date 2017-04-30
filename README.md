@@ -32,3 +32,20 @@ add or update manual
 command: awk
 url of manual: https://hydrocul.github.io/wiki/commands/awk.html
 ```
+
+You can update manual information with text editor by editing `manual.json`.
+`manual.json` is the setting file has the list of command and manual page url.
+
+```manual.json
+{
+	"manual": [
+		{
+			"command": "&",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060224/230589/"
+		},
+		{
+			"command": "&&",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060224/230604/"
+		},
+
+		...
