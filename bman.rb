@@ -1,7 +1,14 @@
 #!/usr/bin/ruby
 require 'json'
 
-MANUAL_JSON = './manual.json'
+path = File.expand_path(__FILE__)
+if File.ftype(path) == 'link' then
+  # 実行ファイルがシンボリックの場合はリンク先にあるマニュアルを参照
+  link        = File.readlink(path)
+  MANUAL_JSON = File.expand_path("#{File.dirname(link)}/manual.json")
+else
+  MANUAL_JSON = File.expand_path("#{File.dirname(__FILE__)}/manual.json")
+end
 
 def loadJSON(file)
   open(file) do |f|
