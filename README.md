@@ -10,6 +10,7 @@ Please exec `install.sh`
 Symbolic link will be created at `/usr/local/bin`
 
 ```
+$ git clone https://github.com/t-yng/bman && cd bman
 $ sh ./install.sh
 ```
 
