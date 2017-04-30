@@ -22,7 +22,7 @@ def updateJSON(json, file)
   end
 end
 
-def printNoManualError()
+def printNoManualError(command)
   puts "No manual entry for \"#{command}\""
   puts "Please add manual by \"bman --config\""
 end
@@ -33,7 +33,7 @@ def openManual(command)
 
   # コマンドが存在しない場合はエラーメッセージを表示
   if item == nil then
-    printNoManualError()
+    printNoManualError(command)
     return
   end
 
@@ -41,7 +41,7 @@ def openManual(command)
   `open #{url}`
 end
 
-def updateManual(command, url)
+def inputManualInfo()
   # マニュアルの情報を標準入力から取得
   puts 'add or update manual'
   print 'command: '
@@ -49,6 +49,10 @@ def updateManual(command, url)
   print "url of manual: "
   url     = STDIN.gets.chop
 
+  return {command: command, url: url}
+end
+
+def updateManual(command, url)
   # マニュアルを更新（すでにコマンドが存在する場合は上書き）
   hash = loadJSON(MANUAL_JSON)
   hash['manual'].push({'command' => command, 'url' => url})
@@ -59,6 +63,10 @@ def main()
   arg = ARGV[0]
 
   if arg == '--config' then
+    data = inputManualInfo()
+    command = data[:command]
+    url     = data[:url]
+
     updateManual(command, url)
   else
     openManual(arg)
