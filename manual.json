@@ -1,0 +1,1064 @@
+{
+	"manual": [
+		{
+			"command": "&",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060224/230589/"
+		},
+		{
+			"command": "&&",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060224/230604/"
+		},
+		{
+			"command": ":",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060224/230605/"
+		},
+		{
+			"command": ".",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060224/230630/"
+		},
+		{
+			"command": ">",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230690/"
+		},
+		{
+			"command": ">>",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230691/"
+		},
+		{
+			"command": "<",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230692/"
+		},
+		{
+			"command": "<<",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230699/"
+		},
+		{
+			"command": "|",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230700/"
+		},
+		{
+			"command": "||",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230701/"
+		},
+		{
+			"command": ";",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230702/"
+		},
+		{
+			"command": "#",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230703/"
+		},
+		{
+			"command": "[",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230705/"
+		},
+		{
+			"command": "alias",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230707/"
+		},
+		{
+			"command": "apt-get",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230709/"
+		},
+		{
+			"command": "arp",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230710/"
+		},
+		{
+			"command": "at",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230711/"
+		},
+		{
+			"command": "atq",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230712/"
+		},
+		{
+			"command": "atrm",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230713/"
+		},
+		{
+			"command": "banner",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230714/"
+		},
+		{
+			"command": "basename",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230715/"
+		},
+		{
+			"command": "batch",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230716/"
+		},
+		{
+			"command": "bc",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230717/"
+		},
+		{
+			"command": "bg",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230718/"
+		},
+		{
+			"command": "break",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230719/"
+		},
+		{
+			"command": "builtin",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230720/"
+		},
+		{
+			"command": "bunzip2",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230721/"
+		},
+		{
+			"command": "bzip2",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230722/"
+		},
+		{
+			"command": "cal",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230723/"
+		},
+		{
+			"command": "case",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230724/"
+		},
+		{
+			"command": "cat",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230725/"
+		},
+		{
+			"command": "cd",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230726/"
+		},
+		{
+			"command": "chattr",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20140115/529923/"
+		},
+		{
+			"command": "chgrp",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230727/"
+		},
+		{
+			"command": "chmod",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230728/"
+		},
+		{
+			"command": "chown",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230729/"
+		},
+		{
+			"command": "clock, hwclock",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230730/"
+		},
+		{
+			"command": "command",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230731/"
+		},
+		{
+			"command": "compress",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230732/"
+		},
+		{
+			"command": "configure",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20140331/547144/"
+		},
+		{
+			"command": "continue",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230733/"
+		},
+		{
+			"command": "cp",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230734/"
+		},
+		{
+			"command": "cpio",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230735/"
+		},
+		{
+			"command": "crontab",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230737/"
+		},
+		{
+			"command": "cut",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230738/"
+		},
+		{
+			"command": "date",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230739/"
+		},
+		{
+			"command": "dd",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230741/"
+		},
+		{
+			"command": "depmod",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20130909/503314/"
+		},
+		{
+			"command": "debugfs",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20140421/551882/"
+		},
+		{
+			"command": "df",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230742/"
+		},
+		{
+			"command": "dig",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230743/"
+		},
+		{
+			"command": "dirs",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230745/"
+		},
+		{
+			"command": "dmesg",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20130909/503271/"
+		},
+		{
+			"command": "domainname",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230746/"
+		},
+		{
+			"command": "dpkg",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230747/"
+		},
+		{
+			"command": "dselect",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20140428/553545/"
+		},
+		{
+			"command": "du",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230748/"
+		},
+		{
+			"command": "dump",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20140414/550302/"
+		},
+		{
+			"command": "dumpe2fs",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20140421/551883/"
+		},
+		{
+			"command": "e2fsck",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20140317/544004/"
+		},
+		{
+			"command": "echo",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230751/"
+		},
+		{
+			"command": "edquota",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20140212/536144/"
+		},
+		{
+			"command": "enable",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230757/"
+		},
+		{
+			"command": "env",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20131226/527382/"
+		},
+		{
+			"command": "eval",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230759/"
+		},
+		{
+			"command": "exec",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230761/"
+		},
+		{
+			"command": "exit",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230763/"
+		},
+		{
+			"command": "expand",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20131007/509542/"
+		},
+		{
+			"command": "export",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230765/"
+		},
+		{
+			"command": "expr",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230767/"
+		},
+		{
+			"command": "factor",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230771/"
+		},
+		{
+			"command": "fastboot",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230772/"
+		},
+		{
+			"command": "fasthalt",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230773/"
+		},
+		{
+			"command": "fdformat",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230774/"
+		},
+		{
+			"command": "fdisk",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230775/"
+		},
+		{
+			"command": "fg",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230776/"
+		},
+		{
+			"command": "file",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20071130/288506/"
+		},
+		{
+			"command": "find",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230777/"
+		},
+		{
+			"command": "finger",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230778/"
+		},
+		{
+			"command": "fmt",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20131226/527402/"
+		},
+		{
+			"command": "for",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230779/"
+		},
+		{
+			"command": "free",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230780/"
+		},
+		{
+			"command": "fsck",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230781/"
+		},
+		{
+			"command": "ftp",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230785/"
+		},
+		{
+			"command": "function",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20140317/544003/"
+		},
+		{
+			"command": "gpasswd",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20131226/527405/"
+		},
+		{
+			"command": "grep",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230786/"
+		},
+		{
+			"command": "groupadd",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230787/"
+		},
+		{
+			"command": "groupdel",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230788/"
+		},
+		{
+			"command": "groupmod",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230789/"
+		},
+		{
+			"command": "grub-install",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20140212/536210/"
+		},
+		{
+			"command": "gunzip",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230790/"
+		},
+		{
+			"command": "gzip",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230791/"
+		},
+		{
+			"command": "halt",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230793/"
+		},
+		{
+			"command": "head",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230794/"
+		},
+		{
+			"command": "hexdump",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20140224/538591/"
+		},
+		{
+			"command": "history",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230795/"
+		},
+		{
+			"command": "host",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230797/"
+		},
+		{
+			"command": "hostname",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230798/"
+		},
+		{
+			"command": "iconv",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20131209/523510/"
+		},
+		{
+			"command": "id",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230799/"
+		},
+		{
+			"command": "if",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230800/"
+		},
+		{
+			"command": "ifconfig",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230802/"
+		},
+		{
+			"command": "ifdown",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20140122/531526/"
+		},
+		{
+			"command": "ifup",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20140122/531524/"
+		},
+		{
+			"command": "insmod",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20130909/503324/"
+		},
+		{
+			"command": "iptables",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20140512/556022/"
+		},
+		{
+			"command": "iwconfig",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230803/"
+		},
+		{
+			"command": "join",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20140224/538589/"
+		},
+		{
+			"command": "jobs",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230804/"
+		},
+		{
+			"command": "jwhois",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230805/"
+		},
+		{
+			"command": "kill",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230806/"
+		},
+		{
+			"command": "killall",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20131203/522202/"
+		},
+		{
+			"command": "last",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230807/"
+		},
+		{
+			"command": "lastlog",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230808/"
+		},
+		{
+			"command": "ldconfig",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20140127/532504/"
+		},
+		{
+			"command": "ldd",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20140127/532486/"
+		},
+		{
+			"command": "less",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230809/"
+		},
+		{
+			"command": "lftp",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20140310/542302/"
+		},
+		{
+			"command": "lha",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230811/"
+		},
+		{
+			"command": "ln",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230812/"
+		},
+		{
+			"command": "locate",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230813/"
+		},
+		{
+			"command": "login",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230814/"
+		},
+		{
+			"command": "lpc",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230815/"
+		},
+		{
+			"command": "lpq",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230817/"
+		},
+		{
+			"command": "lpr",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230818/"
+		},
+		{
+			"command": "lprm",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230819/"
+		},
+		{
+			"command": "ls",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230820/"
+		},
+		{
+			"command": "lspci",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20140303/540546/"
+		},
+		{
+			"command": "lsusb",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20140303/540548/"
+		},
+		{
+			"command": "make",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20140324/545283/"
+		},
+		{
+			"command": "man",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230821/"
+		},
+		{
+			"command": "mattrib",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230822/"
+		},
+		{
+			"command": "mbadblocks",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230823/"
+		},
+		{
+			"command": "mcd",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230824/"
+		},
+		{
+			"command": "mcopy",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230825/"
+		},
+		{
+			"command": "md5sum",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20080605/306728/"
+		},
+		{
+			"command": "mdel",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230826/"
+		},
+		{
+			"command": "mdir",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230827/"
+		},
+		{
+			"command": "mformat",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230828/"
+		},
+		{
+			"command": "mimeencode",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230829/"
+		},
+		{
+			"command": "mkdir",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230831/"
+		},
+		{
+			"command": "mke2fs",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20140324/545285/"
+		},
+		{
+			"command": "mkfs",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230832/"
+		},
+		{
+			"command": "mktemp",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230833/"
+		},
+		{
+			"command": "mlabel",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230835/"
+		},
+		{
+			"command": "mmd",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230836/"
+		},
+		{
+			"command": "mmove",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230837/"
+		},
+		{
+			"command": "modinfo",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20130909/503303/"
+		},
+		{
+			"command": "modprobe",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20130909/503342/"
+		},
+		{
+			"command": "more",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230838/"
+		},
+		{
+			"command": "mount",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230839/"
+		},
+		{
+			"command": "mrd",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230840/"
+		},
+		{
+			"command": "mren",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230841/"
+		},
+		{
+			"command": "mtype",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230842/"
+		},
+		{
+			"command": "mv",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230844/"
+		},
+		{
+			"command": "netstat",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230845/"
+		},
+		{
+			"command": "newgrp",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20131226/527406/"
+		},
+		{
+			"command": "nice",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230848/"
+		},
+		{
+			"command": "nkf",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230849/"
+		},
+		{
+			"command": "nl",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20131007/509544/"
+		},
+		{
+			"command": "nohup",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230850/"
+		},
+		{
+			"command": "nslookup",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230852/"
+		},
+		{
+			"command": "od",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230853/"
+		},
+		{
+			"command": "passwd",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230854/"
+		},
+		{
+			"command": "paste",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20131209/523511/"
+		},
+		{
+			"command": "pidof",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230856/"
+		},
+		{
+			"command": "ping",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230857/"
+		},
+		{
+			"command": "popd",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230858/"
+		},
+		{
+			"command": "pr",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20131209/523512/"
+		},
+		{
+			"command": "printenv",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20071205/288821/"
+		},
+		{
+			"command": "ps",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230860/"
+		},
+		{
+			"command": "pstree",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20071204/288730/"
+		},
+		{
+			"command": "pushd",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230862/"
+		},
+		{
+			"command": "pwconv",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230863/"
+		},
+		{
+			"command": "pwd",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230864/"
+		},
+		{
+			"command": "quota",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20071205/288859/"
+		},
+		{
+			"command": "quotaon",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20140212/536126/"
+		},
+		{
+			"command": "rcp",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230865/"
+		},
+		{
+			"command": "read",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230866/"
+		},
+		{
+			"command": "readonly",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230867/"
+		},
+		{
+			"command": "reboot",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230868/"
+		},
+		{
+			"command": "renice",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20131203/522192/"
+		},
+		{
+			"command": "repquota",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20140212/536143/"
+		},
+		{
+			"command": "restore",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20140414/550303/"
+		},
+		{
+			"command": "return",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230869/"
+		},
+		{
+			"command": "rlogin",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230870/"
+		},
+		{
+			"command": "rm",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230871/"
+		},
+		{
+			"command": "rmdir",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230873/"
+		},
+		{
+			"command": "rmmod",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20130909/503368/"
+		},
+		{
+			"command": "route",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230874/"
+		},
+		{
+			"command": "rpm",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230875/"
+		},
+		{
+			"command": "rsh",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230877/"
+		},
+		{
+			"command": "runlevel",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20131218/525642/"
+		},
+		{
+			"command": "scp",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230878/"
+		},
+		{
+			"command": "sed",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230879/"
+		},
+		{
+			"command": "select",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230880/"
+		},
+		{
+			"command": "set",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230881/"
+		},
+		{
+			"command": "setserial",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20140331/547146/"
+		},
+		{
+			"command": "sg",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20071205/288860/"
+		},
+		{
+			"command": "sha1sum",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20140115/529942/"
+		},
+		{
+			"command": "shift",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230882/"
+		},
+		{
+			"command": "shred",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20140310/542304/"
+		},
+		{
+			"command": "shutdown",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230883/"
+		},
+		{
+			"command": "sleep",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230884/"
+		},
+		{
+			"command": "slogin",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230885/"
+		},
+		{
+			"command": "sort",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230887/"
+		},
+		{
+			"command": "split",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230888/"
+		},
+		{
+			"command": "ssh-keygen",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230890/"
+		},
+		{
+			"command": "ssh",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230889/"
+		},
+		{
+			"command": "stat",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20071130/288449/"
+		},
+		{
+			"command": "stop",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230891/"
+		},
+		{
+			"command": "su",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230892/"
+		},
+		{
+			"command": "sudo",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20071205/288862/"
+		},
+		{
+			"command": "suspend",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230893/"
+		},
+		{
+			"command": "swapoff",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20130909/503369/"
+		},
+		{
+			"command": "swapon",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20130909/503312/"
+		},
+		{
+			"command": "tac",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20131007/509543/"
+		},
+		{
+			"command": "tail",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230894/"
+		},
+		{
+			"command": "tar",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230896/"
+		},
+		{
+			"command": "tcpdump",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20140512/556024/"
+		},
+		{
+			"command": "tee",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230898/"
+		},
+		{
+			"command": "telnet",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230899/"
+		},
+		{
+			"command": "test",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230901/"
+		},
+		{
+			"command": "time",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230902/"
+		},
+		{
+			"command": "times",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230903/"
+		},
+		{
+			"command": "top",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230904/"
+		},
+		{
+			"command": "touch",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230905/"
+		},
+		{
+			"command": "tr",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230906/"
+		},
+		{
+			"command": "traceroute",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230907/"
+		},
+		{
+			"command": "trap",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230908/"
+		},
+		{
+			"command": "tune2fs",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20140428/553562/"
+		},
+		{
+			"command": "type",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230909/"
+		},
+		{
+			"command": "ulimit",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230911/"
+		},
+		{
+			"command": "umask",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230913/"
+		},
+		{
+			"command": "umount",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230914/"
+		},
+		{
+			"command": "unalias",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230915/"
+		},
+		{
+			"command": "uname",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230916/"
+		},
+		{
+			"command": "uncompress",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230917/"
+		},
+		{
+			"command": "uniq",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230918/"
+		},
+		{
+			"command": "unset",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230919/"
+		},
+		{
+			"command": "until",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230921/"
+		},
+		{
+			"command": "unzip",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230922/"
+		},
+		{
+			"command": "updatedb",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230924/"
+		},
+		{
+			"command": "useradd",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230925/"
+		},
+		{
+			"command": "userdel",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060227/230926/"
+		},
+		{
+			"command": "usermod",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060228/230982/"
+		},
+		{
+			"command": "uudecode",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060228/230983/"
+		},
+		{
+			"command": "uuencode",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060228/230984/"
+		},
+		{
+			"command": "vi",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060228/230985/"
+		},
+		{
+			"command": "vigr",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060228/230986/"
+		},
+		{
+			"command": "vipw",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060228/230988/"
+		},
+		{
+			"command": "vmstat",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060228/230989/"
+		},
+		{
+			"command": "w",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060228/230990/"
+		},
+		{
+			"command": "wait",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060228/230991/"
+		},
+		{
+			"command": "wc",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060228/230994/"
+		},
+		{
+			"command": "wget",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060228/230995/"
+		},
+		{
+			"command": "whereis",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20140212/536211/"
+		},
+		{
+			"command": "which",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060228/230996/"
+		},
+		{
+			"command": "while",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060228/230997/"
+		},
+		{
+			"command": "who",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060228/230998/"
+		},
+		{
+			"command": "xargs",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20140331/547143/"
+		},
+		{
+			"command": "yum",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060228/230999/"
+		},
+		{
+			"command": "zcat",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060228/231000/"
+		},
+		{
+			"command": "zip",
+			"url": "http://itpro.nikkeibp.co.jp//article/COLUMN/20060228/231001/"
+		}
+	]
+}
